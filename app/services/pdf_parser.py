@@ -1,4 +1,4 @@
-import pymupdf as fitz # PyMuPDF
+import fitz # PyMuPDF
  
 from io import BytesIO
 
