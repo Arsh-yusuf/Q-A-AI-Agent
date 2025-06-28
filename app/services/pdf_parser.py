@@ -1,4 +1,5 @@
-import fitz  # PyMuPDF
+import pymupdf as fitz # PyMuPDF
+ 
 from io import BytesIO
 
 def extract_text(file_bytes: bytes) -> str:
