@@ -2,3 +2,4 @@
 - Python 3.8+
 - Cohere API Key (free at [cohere.com](https://dashboard.cohere.com/))
 - pymupdf
+- fitz
