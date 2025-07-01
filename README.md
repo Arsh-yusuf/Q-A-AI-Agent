@@ -28,6 +28,12 @@ Built using:
 - Cohere API Key (free at [cohere.com](https://dashboard.cohere.com/))
 
 ---
+---
+## Web App Link
+
+https://appapppy-cnkhh5k5jhek6dpnvemezp.streamlit.app/
+
+---
 
 ## 🛠️ Installation
 
